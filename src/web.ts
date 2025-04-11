@@ -1,45 +1,40 @@
-import { WebPlugin } from '@capacitor/core';
+import { WebPlugin, PluginListenerHandle } from '@capacitor/core';
 import { DarkModePlugin } from './definitions';
 
 export class DarkModeWeb extends WebPlugin implements DarkModePlugin {
-  darkMode = {"isDarkModeOn":false}
+  darkMode = { isDarkModeOn: false };
 
   constructor() {
-    super({
-      name: 'DarkMode',
-      platforms: ['web','android','ios'],
-    });
+    super();
   }
 
-  isDarkModeOn(): Promise<any> {
-    var darkMode = {"isDarkModeOn":false}
-    if(window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches)
-    {
-      darkMode.isDarkModeOn = true
-    }
-    return  Promise.resolve(darkMode);
+  async isDarkModeOn(): Promise<{ isDarkModeOn: boolean }> {
+    const isDark = window.matchMedia?.('(prefers-color-scheme: dark)').matches || false;
+    return { isDarkModeOn: isDark };
   }
 
-  registerDarkModeChangeListener():void
-  {
-    var darkMode = {"isDarkModeOn":false}
-      window.matchMedia("(prefers-color-scheme: dark)").addListener((status) => {
-        if(status.matches)
-        {
-          darkMode = {"isDarkModeOn":true}
-        }
-        else
-        {
-          darkMode = {"isDarkModeOn":false}
-        }
-        this.notifyListeners("darkModeStateChanged",darkMode)
-    });
+  registerDarkModeChangeListener(): void {
+    const listener = (status: MediaQueryListEvent) => {
+      this.notifyListeners("darkModeStateChanged", {
+        isDarkModeOn: status.matches
+      });
+    };
+    window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", listener);
+  }
+
+  // ✅ This now matches Capacitor v7 expectations
+  async addListener(
+    eventName: string,
+    listenerFunc: (event: any) => void
+  ): Promise<PluginListenerHandle> {
+    const remove = this.addListenerInternal(eventName, listenerFunc);
+    return {
+      remove: async () => remove()
+    };
+  }
+
+  private addListenerInternal(eventName: string, listenerFunc: (event: any) => void): () => void {
+    window.addEventListener(eventName, listenerFunc);
+    return () => window.removeEventListener(eventName, listenerFunc);
   }
 }
-
-const DarkMode = new DarkModeWeb();
-
-export { DarkMode };
-
-import { registerWebPlugin } from '@capacitor/core';
-registerWebPlugin(DarkMode);

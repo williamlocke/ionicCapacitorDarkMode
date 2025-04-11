@@ -2,7 +2,318 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d69c9d4-de83-4eee-a1e3-db6bd18fbcd2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/esm/definitions.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/dist/esm/definitions.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/esm/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/dist/esm/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/esm/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/esm/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/esm/index.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/esm/index.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/esm/web.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/dist/esm/web.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/esm/web.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/esm/web.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/esm/web.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/esm/web.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/plugin.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/plugin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/plugin.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/plugin.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-validator-identifier/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/helper-validator-identifier/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-validator-identifier/lib/identifier.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/helper-validator-identifier/lib/identifier.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-validator-identifier/lib/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/helper-validator-identifier/lib/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-validator-identifier/lib/keyword.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/helper-validator-identifier/lib/keyword.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-validator-identifier/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/helper-validator-identifier/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-validator-identifier/scripts/generate-identifier-regex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/src/main/assets/native-bridge.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/src/main/assets/native-bridge.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/src/main/java/com/getcapacitor/Bridge.java" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/src/main/java/com/getcapacitor/Bridge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/src/main/java/com/getcapacitor/BridgeActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/src/main/java/com/getcapacitor/BridgeActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/src/main/java/com/getcapacitor/BridgeFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/src/main/java/com/getcapacitor/BridgeWebChromeClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/src/main/java/com/getcapacitor/BridgeWebChromeClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/src/main/java/com/getcapacitor/CapConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/src/main/java/com/getcapacitor/CapConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/src/main/java/com/getcapacitor/CapacitorWebView.java" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/src/main/java/com/getcapacitor/CapacitorWebView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/src/main/java/com/getcapacitor/FileUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/src/main/java/com/getcapacitor/FileUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/src/main/java/com/getcapacitor/JSExport.java" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/src/main/java/com/getcapacitor/JSExport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/src/main/java/com/getcapacitor/JSInjector.java" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/src/main/java/com/getcapacitor/JSInjector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/src/main/java/com/getcapacitor/MessageHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/src/main/java/com/getcapacitor/MessageHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/src/main/java/com/getcapacitor/PluginCall.java" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/src/main/java/com/getcapacitor/PluginCall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/src/main/java/com/getcapacitor/UriMatcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/src/main/java/com/getcapacitor/UriMatcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/src/main/java/com/getcapacitor/WebViewLocalServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/src/main/java/com/getcapacitor/WebViewLocalServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/src/main/java/com/getcapacitor/cordova/MockCordovaWebViewImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/src/main/java/com/getcapacitor/cordova/MockCordovaWebViewImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/src/main/java/com/getcapacitor/plugin/CapacitorCookies.java" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/src/main/java/com/getcapacitor/plugin/CapacitorCookies.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/src/main/java/com/getcapacitor/plugin/util/HttpRequestHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/src/main/java/com/getcapacitor/plugin/util/HttpRequestHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/src/main/res/layout/fragment_bridge.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/src/main/res/values/attrs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/android/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/android/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/cli/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/cli/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/cli/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/cli/assets/android-template.tar.gz" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/cli/assets/android-template.tar.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/cli/assets/capacitor-cordova-android-plugins.tar.gz" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/cli/assets/capacitor-cordova-android-plugins.tar.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/cli/assets/capacitor-cordova-ios-plugins.tar.gz" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/cli/assets/capacitor-cordova-ios-plugins.tar.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/cli/assets/ios-template.tar.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/android/add.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/android/add.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/android/common.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/android/common.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/android/doctor.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/android/doctor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/android/open.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/android/open.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/android/run.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/android/run.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/android/update.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/android/update.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/common.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/common.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/cordova.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/cordova.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/declarations.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/declarations.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/definitions.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/definitions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/framework-configs.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/framework-configs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/ios/add.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/ios/add.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/ios/common.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/ios/common.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/ios/doctor.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/ios/doctor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/ios/open.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/ios/open.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/ios/run.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/ios/run.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/ios/update.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/ios/update.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/ipc.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/ipc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/log.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/log.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/plugin.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/plugin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/sysconfig.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/sysconfig.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/tasks/add.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/tasks/add.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/tasks/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/tasks/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/tasks/copy.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/tasks/copy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/tasks/create.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/tasks/create.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/tasks/doctor.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/tasks/doctor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/tasks/init.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/tasks/init.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/tasks/list.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/tasks/list.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/tasks/new-plugin.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/tasks/new-plugin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/tasks/open.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/tasks/open.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/tasks/run.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/tasks/run.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/tasks/serve.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/tasks/serve.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/tasks/sync.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/tasks/sync.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/tasks/telemetry.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/tasks/telemetry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/tasks/update.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/tasks/update.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/telemetry.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/telemetry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/util/cli.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/util/cli.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/util/fs.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/util/fs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/util/native-run.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/util/native-run.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/util/node.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/util/node.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/util/promise.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/util/promise.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/util/subprocess.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/util/subprocess.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/util/template.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/util/template.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/util/term.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/util/term.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/util/uuid.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/util/uuid.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/util/xml.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/util/xml.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/cli/dist/web/copy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/cli/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/cli/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/core/cordova.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/core/cordova.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/capacitor.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/capacitor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/capacitor.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/capacitor.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/index.cjs.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/index.cjs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/index.cjs.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/index.cjs.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/index.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/core/dist/index.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/core/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/core/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/core/types/definitions-internal.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/core/types/definitions-internal.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/core/types/definitions.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/core/types/definitions.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/core/types/global.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/core/types/global.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/core/types/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/core/types/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/core/types/legacy/legacy-definitions.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/core/types/legacy/legacy-web-plugin-merge.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/core/types/platforms.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/core/types/web-plugin.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/core/types/web-plugin.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/ios/Capacitor.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/ios/Capacitor.podspec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/ios/Capacitor/Capacitor/CAPBridgeProtocol.swift" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/ios/Capacitor/Capacitor/CAPBridgeProtocol.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/ios/Capacitor/Capacitor/CAPBridgeViewController.swift" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/ios/Capacitor/Capacitor/CAPBridgeViewController.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/ios/Capacitor/Capacitor/CAPInstanceConfiguration.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/ios/Capacitor/Capacitor/CAPInstanceConfiguration.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/ios/Capacitor/Capacitor/CAPInstanceConfiguration.m" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/ios/Capacitor/Capacitor/CAPInstanceConfiguration.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/ios/Capacitor/Capacitor/CAPInstanceDescriptor.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/ios/Capacitor/Capacitor/CAPInstanceDescriptor.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/ios/Capacitor/Capacitor/CAPInstanceDescriptor.m" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/ios/Capacitor/Capacitor/CAPInstanceDescriptor.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/ios/Capacitor/Capacitor/CAPInstanceDescriptor.swift" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/ios/Capacitor/Capacitor/CAPInstanceDescriptor.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/ios/Capacitor/Capacitor/CAPPluginCall.swift" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/ios/Capacitor/Capacitor/CAPPluginCall.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/ios/Capacitor/Capacitor/CapacitorBridge.swift" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/ios/Capacitor/Capacitor/CapacitorBridge.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/ios/Capacitor/Capacitor/Codable/JSValueDecoder.swift" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/ios/Capacitor/Capacitor/Codable/JSValueDecoder.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/ios/Capacitor/Capacitor/Codable/JSValueEncoder.swift" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/ios/Capacitor/Capacitor/Codable/JSValueEncoder.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/ios/Capacitor/Capacitor/JSExport.swift" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/ios/Capacitor/Capacitor/JSExport.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/ios/Capacitor/Capacitor/Plugins/HttpRequestHandler.swift" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/ios/Capacitor/Capacitor/Plugins/HttpRequestHandler.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/ios/Capacitor/Capacitor/WebViewAssetHandler.swift" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/ios/Capacitor/Capacitor/WebViewAssetHandler.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/ios/Capacitor/Capacitor/WebViewDelegationHandler.swift" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/ios/Capacitor/Capacitor/WebViewDelegationHandler.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/ios/Capacitor/Capacitor/assets/native-bridge.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/ios/Capacitor/Capacitor/assets/native-bridge.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/ios/CapacitorCordova.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/ios/CapacitorCordova.podspec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/ios/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/ios/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/ios/scripts/pods_helpers.rb" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/ios/scripts/pods_helpers.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@ionic/cli-framework-output/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@ionic/cli-framework-output/dist/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@ionic/cli-framework-output/dist/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@ionic/cli-framework-output/dist/logger.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@ionic/cli-framework-output/dist/logger.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@ionic/cli-framework-output/dist/output.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@ionic/cli-framework-output/dist/output.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@ionic/cli-framework-output/dist/output.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@ionic/cli-framework-output/dist/output.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@ionic/cli-framework-output/dist/tasks.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@ionic/cli-framework-output/dist/tasks.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@ionic/cli-framework-output/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@ionic/cli-framework-output/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/big-integer/BigInteger.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/big-integer/BigInteger.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/big-integer/BigInteger.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/big-integer/BigInteger.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/big-integer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/big-integer/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/big-integer/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/big-integer/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/commander/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/commander/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/commander/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/commander/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/commander/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/commander/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/commander/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/commander/typings/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/commander/typings/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cross-spawn/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cross-spawn/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cross-spawn/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cross-spawn/lib/enoent.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cross-spawn/lib/enoent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cross-spawn/lib/util/escape.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cross-spawn/lib/util/escape.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cross-spawn/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cross-spawn/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/debug/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/debug/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/debug/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/debug/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/debug/src/browser.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/debug/src/browser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/debug/src/common.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/debug/src/common.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/debug/src/node.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/debug/src/node.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ini/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ini/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ini/ini.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ini/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ini/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/kleur/colors.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/kleur/colors.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/kleur/colors.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/kleur/colors.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/kleur/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/kleur/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/kleur/index.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/kleur/index.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/kleur/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/kleur/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lru-cache/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/lru-cache/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lru-cache/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/lru-cache/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lru-cache/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lru-cache/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/lru-cache/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ms/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ms/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ms/license.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ms/license.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ms/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ms/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ms/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ms/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/native-run/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/native-run/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/native-run/dist/android/data/avds/Nexus_5X_API_24.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/native-run/dist/android/data/avds/Pixel_2_API_26.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/native-run/dist/android/data/avds/Pixel_2_API_27.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/native-run/dist/android/data/avds/Pixel_2_API_28.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/native-run/dist/android/data/avds/Pixel_3_API_29.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/native-run/dist/android/data/avds/Pixel_3_API_30.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/native-run/dist/android/data/avds/Pixel_3_API_31.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/native-run/dist/android/data/avds/Pixel_3_API_32.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/native-run/dist/android/data/avds/Pixel_API_25.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/native-run/dist/android/list.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/native-run/dist/android/list.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/native-run/dist/android/run.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/native-run/dist/android/run.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/native-run/dist/android/sdk-info.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/native-run/dist/android/sdk-info.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/native-run/dist/android/utils/adb.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/native-run/dist/android/utils/adb.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/native-run/dist/android/utils/apk.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/native-run/dist/android/utils/apk.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/native-run/dist/android/utils/avd.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/native-run/dist/android/utils/avd.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/native-run/dist/android/utils/emulator.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/native-run/dist/android/utils/emulator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/native-run/dist/android/utils/list.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/native-run/dist/android/utils/list.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/native-run/dist/android/utils/run.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/native-run/dist/android/utils/run.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/native-run/dist/android/utils/sdk/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/native-run/dist/android/utils/sdk/api.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/native-run/dist/android/utils/sdk/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/native-run/dist/android/utils/sdk/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/native-run/dist/android/utils/sdk/xml.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/native-run/dist/android/utils/sdk/xml.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/native-run/dist/errors.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/native-run/dist/errors.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/native-run/dist/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/native-run/dist/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/native-run/dist/ios/lib/client/afc.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/native-run/dist/ios/lib/client/afc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/native-run/dist/ios/lib/client/installation_proxy.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/native-run/dist/ios/lib/client/installation_proxy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/native-run/dist/ios/lib/client/lockdownd.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/native-run/dist/ios/lib/client/lockdownd.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/native-run/dist/ios/lib/client/mobile_image_mounter.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/native-run/dist/ios/lib/client/mobile_image_mounter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/native-run/dist/ios/lib/manager.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/native-run/dist/ios/lib/manager.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/native-run/dist/ios/lib/protocol/afc.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/native-run/dist/ios/lib/protocol/afc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/native-run/dist/ios/lib/protocol/gdb.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/native-run/dist/ios/lib/protocol/gdb.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/native-run/dist/ios/lib/protocol/protocol.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/native-run/dist/ios/lib/protocol/protocol.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/native-run/dist/ios/list.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/native-run/dist/ios/list.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/native-run/dist/ios/run.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/native-run/dist/ios/run.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/native-run/dist/ios/utils/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/native-run/dist/ios/utils/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/native-run/dist/ios/utils/device.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/native-run/dist/ios/utils/device.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/native-run/dist/ios/utils/simulator.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/native-run/dist/ios/utils/simulator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/native-run/dist/ios/utils/xcode.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/native-run/dist/ios/utils/xcode.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/native-run/dist/list.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/native-run/dist/list.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/native-run/dist/utils/fs.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/native-run/dist/utils/fs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/native-run/dist/utils/ini.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/native-run/dist/utils/ini.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/native-run/dist/utils/list.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/native-run/dist/utils/list.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/native-run/dist/utils/log.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/native-run/dist/utils/log.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/native-run/dist/utils/process.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/native-run/dist/utils/process.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/native-run/dist/utils/unzip.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/native-run/dist/utils/unzip.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/native-run/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/native-run/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/open/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/open/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/open/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/open/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/open/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/open/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/open/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/open/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/open/xdg-open" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/open/xdg-open" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/plist/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/plist/History.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/plist/History.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/plist/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/plist/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/plist/dist/plist-build.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/plist/dist/plist-build.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/plist/dist/plist-parse.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/plist/dist/plist-parse.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/plist/dist/plist.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/plist/dist/plist.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/plist/lib/build.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/plist/lib/build.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/plist/lib/parse.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/plist/lib/parse.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/plist/lib/xmldom/dom-parser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/plist/lib/xmldom/dom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/plist/lib/xmldom/entities.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/plist/lib/xmldom/sax.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/plist/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/plist/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/readable-stream/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/lib/_stream_duplex.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/readable-stream/lib/_stream_duplex.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/lib/_stream_passthrough.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/readable-stream/lib/_stream_passthrough.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/lib/_stream_readable.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/readable-stream/lib/_stream_readable.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/lib/_stream_transform.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/readable-stream/lib/_stream_transform.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/lib/_stream_writable.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/readable-stream/lib/_stream_writable.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/lib/internal/streams/async_iterator.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/readable-stream/lib/internal/streams/async_iterator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/lib/internal/streams/buffer_list.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/readable-stream/lib/internal/streams/buffer_list.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/lib/internal/streams/destroy.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/readable-stream/lib/internal/streams/destroy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/lib/internal/streams/end-of-stream.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/readable-stream/lib/internal/streams/end-of-stream.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/lib/internal/streams/from.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/readable-stream/lib/internal/streams/from.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/lib/internal/streams/pipeline.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/readable-stream/lib/internal/streams/pipeline.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/lib/internal/streams/state.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/readable-stream/lib/internal/streams/state.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/readable-stream/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/semver/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/semver/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/semver/bin/semver.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/semver/bin/semver.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/semver/classes/comparator.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/semver/classes/comparator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/semver/classes/range.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/semver/classes/range.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/semver/classes/semver.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/semver/classes/semver.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/semver/functions/coerce.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/semver/functions/coerce.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/semver/functions/diff.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/semver/functions/diff.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/semver/functions/inc.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/semver/functions/inc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/semver/functions/parse.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/semver/functions/parse.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/semver/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/semver/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/semver/internal/constants.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/semver/internal/constants.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/semver/internal/parse-options.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/semver/internal/parse-options.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/semver/internal/re.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/semver/internal/re.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/semver/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/semver/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/semver/ranges/intersects.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/semver/ranges/intersects.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/semver/ranges/subset.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/semver/ranges/subset.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/split2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/split2/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/split2/bench.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/split2/bench.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/split2/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/split2/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/split2/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/split2/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/split2/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/split2/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslib/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tslib/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslib/modules/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tslib/modules/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslib/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tslib/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslib/tslib.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tslib/tslib.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslib/tslib.es6.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tslib/tslib.es6.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslib/tslib.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tslib/tslib.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/xml2js/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/xml2js/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/xml2js/lib/parser.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/xml2js/lib/parser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/xml2js/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/xml2js/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/xmlbuilder/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/xmlbuilder/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/xmlbuilder/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/xmlbuilder/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/xmlbuilder/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/xmlbuilder/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/xmlbuilder/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/xmlbuilder/lib/Utility.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/xmlbuilder/lib/Utility.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/xmlbuilder/lib/XMLAttribute.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/xmlbuilder/lib/XMLAttribute.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/xmlbuilder/lib/XMLCData.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/xmlbuilder/lib/XMLCData.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/xmlbuilder/lib/XMLComment.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/xmlbuilder/lib/XMLComment.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/xmlbuilder/lib/XMLDTDAttList.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/xmlbuilder/lib/XMLDTDAttList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/xmlbuilder/lib/XMLDTDElement.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/xmlbuilder/lib/XMLDTDElement.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/xmlbuilder/lib/XMLDTDEntity.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/xmlbuilder/lib/XMLDTDEntity.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/xmlbuilder/lib/XMLDTDNotation.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/xmlbuilder/lib/XMLDTDNotation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/xmlbuilder/lib/XMLDeclaration.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/xmlbuilder/lib/XMLDeclaration.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/xmlbuilder/lib/XMLDocType.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/xmlbuilder/lib/XMLDocType.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/xmlbuilder/lib/XMLDocument.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/xmlbuilder/lib/XMLDocument.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/xmlbuilder/lib/XMLDocumentCB.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/xmlbuilder/lib/XMLDocumentCB.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/xmlbuilder/lib/XMLElement.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/xmlbuilder/lib/XMLElement.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/xmlbuilder/lib/XMLNode.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/xmlbuilder/lib/XMLNode.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/xmlbuilder/lib/XMLProcessingInstruction.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/xmlbuilder/lib/XMLProcessingInstruction.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/xmlbuilder/lib/XMLRaw.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/xmlbuilder/lib/XMLRaw.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/xmlbuilder/lib/XMLStreamWriter.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/xmlbuilder/lib/XMLStreamWriter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/xmlbuilder/lib/XMLStringWriter.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/xmlbuilder/lib/XMLStringWriter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/xmlbuilder/lib/XMLStringifier.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/xmlbuilder/lib/XMLStringifier.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/xmlbuilder/lib/XMLText.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/xmlbuilder/lib/XMLText.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/xmlbuilder/lib/XMLWriterBase.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/xmlbuilder/lib/XMLWriterBase.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/xmlbuilder/lib/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/xmlbuilder/lib/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/xmlbuilder/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/xmlbuilder/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/definitions.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/definitions.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/web.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/web.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,19 +331,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;/Users/williamlocke/code/samurai/ionicCapacitorDarkMode/node_modules/prettier&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;/Applications/WebStorm.app/Contents/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "/Users/williamlocke/code/samurai/ionicCapacitorDarkMode/node_modules/prettier",
+    "ts.external.directory.path": "/Users/williamlocke/code/samurai-inc/ionicCapacitorDarkMode/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -45,7 +358,8 @@
       <workItem from="1734551629231" duration="305000" />
       <workItem from="1734555465096" duration="602000" />
       <workItem from="1734561337682" duration="692000" />
-      <workItem from="1734581176201" duration="10000" />
+      <workItem from="1734581176201" duration="1199000" />
+      <workItem from="1744399370217" duration="2495000" />
     </task>
     <servers />
   </component>

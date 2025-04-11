@@ -17,9 +17,9 @@
   "author": "Hinddeep Shailesh Purohit",
   "license": "MIT",
   "devDependencies": {
-    "@capacitor/core": "^6.0.0",
-    "@capacitor/android": "^6.0.0",
-    "@capacitor/ios": "^6.0.0",
+    "@capacitor/android": "^7.2.0",
+    "@capacitor/core": "^7.2.0",
+    "@capacitor/ios": "^7.2.0",
     "@ionic/prettier-config": "^1.0.0",
     "@ionic/swiftlint-config": "^1.0.0",
     "@rollup/plugin-node-resolve": "^8.1.0",
@@ -29,9 +29,6 @@
     "rollup": "^2.21.0",
     "swiftlint": "^1.0.1",
     "typescript": "~3.8.3"
-  },
-  "peerDependencies": {
-    "@capacitor/core": "^6.0.0"
   },
   "files": [
     "dist/",
@@ -62,8 +59,9 @@
     "url": "https://github.com/hinddeep/ionicCapacitorDarkMode/issues"
   },
   "dependencies": {
-    "@capacitor/android": "^3.5.1",
-    "@capacitor/cli": "^3.5.1",
-    "@capacitor/ios": "^3.5.1"
+    "@capacitor/cli": "^7.2.0",
+    "@ionic/core": "^8.5.4",
+    "@ionic/vue": "^8.5.4",
+    "@ionic/vue-router": "^8.5.4"
   }
 }
